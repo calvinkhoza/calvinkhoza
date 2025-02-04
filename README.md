@@ -27,5 +27,5 @@ Here are some of my projects:
 - **Integration**:Jenkins and GitHub Actions
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/calvinkhoza)
+- [LinkedIn]((https://www.linkedin.com/in/calvin-khoza-csk1998/)
 - [Twitter](https://twitter.com/calvinkhoza)
