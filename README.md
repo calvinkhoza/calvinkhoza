@@ -1,9 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Calvin Khoza 👋👋
 
-<!--
-**calvinkhoza/calvinkhoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+## Projects
+Here are some of my projects:
+
+- [Project 1](https://github.com/calvinkhoza/project1)
+- [Project 2](https://github.com/calvinkhoza/project2)
+- [Project 3](https://github.com/calvinkhoza/project3)
+
+## Skills
+- **Languages**: Python, JavaScript, etc.
+- **Frameworks**: React, Django, etc.
+- **Tools**: Git, Docker, etc.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/calvinkhoza)
+- [Twitter](https://twitter.com/calvinkhoza)
