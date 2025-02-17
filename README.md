@@ -1,4 +1,4 @@
-## Hi there, I'm Calvin Khoza 👋👋
+## Hi there, I'm Cavin Khoza 👋👋
 
 
 ## About Me
