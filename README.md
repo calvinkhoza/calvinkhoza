@@ -13,8 +13,8 @@
 ## Projects
 Here are some of my projects:
 
-- [Virtual Doctor ](https://github.com/calvinkhoza/project1)
-- [Home Survillance ](https://github.com/calvinkhoza/project2)
+- [Movie database ](https://github.com/calvinkhoza/project1)
+- [Banking system ](https://github.com/calvinkhoza/project2)
 
 
 ## Skills
