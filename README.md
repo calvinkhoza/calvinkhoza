@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Bank management system
+- 🔭 I’m currently working on Smart health management system
 - 🌱 I’m currently learning DevOps and solution architecture
 - 👯 I’m looking to collaborate on new CI/CD pipelines using Github actions
 - 🤔 I’m looking for help with infrastucture as a code
