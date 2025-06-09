@@ -12,12 +12,18 @@ I'm a passionate DevOps Engineer with expertise in building scalable, reliable, 
 - 💬 **Ask Me About:** DevOps best practices, cloud migration strategies, or my journey in tech
 - ⚡ **Fun Fact:** I automate everything I can - even my coffee routine!
 
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### DevOps & Cloud
@@ -28,6 +34,7 @@ I'm a passionate DevOps Engineer with expertise in building scalable, reliable, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
