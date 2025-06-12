@@ -47,7 +47,7 @@ I'm a passionate DevOps Engineer with expertise in building scalable, reliable, 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Smart Health System](https://github.com/calvinkhoza/smartHealth-tracker) | AI-powered health management platform | Python, Kubernetes, Terraform, React |
-| [Movie Database](https://github.com/calvinkhoza/movie-db) | Comprehensive movie information system | Python, Django, MongoDB |
+| [Movie Database](https://movie-database-application.onrender.com/) | Comprehensive movie information system | Python, Django, MongoDB |
 | [Banking System](https://github.com/calvinkhoza/banking-system) | Secure banking transaction platform | React, Node.js, PostgreSQL |
 
 
